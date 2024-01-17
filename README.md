@@ -65,6 +65,3 @@ My vision extends beyond the horizon of mere aspiration. I aspire to carve my pa
 - AA Game - In my second semester, I immersed myself in the world of game development, crafting the game "AA" using Java and LibGDX, a Java game development framework.
 
 - Stronghold - As the crowning achievement of my Advanced Programming course, my peers and I collaborated to bring the game "Stronghold" to life, utilizing Java and the powerful LibGDX game development framework.
-
-
-![instagram](https://img.shields.io/badge/instagram-feda75?style=for-the-badge&logo=instagram&logoColor=feda75)
