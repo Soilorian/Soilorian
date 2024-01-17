@@ -20,22 +20,21 @@ Navigating the professional landscape is a recent venture for me, with only a ye
 In the course of my educational endeavors, I've acquired a diverse set of skills, including but not limited to:
 
 - learing coding languages like:
-  - c
-  - c++
-  - c#
-  - java
-  - python
-  - R
+  - c / c++ ![80%](https://progress-bar.dev/50)
+  - c# ![40%](https://progress-bar.dev/50)
+  - java ![90%](https://progress-bar.dev/50)
+  - python ![40%](https://progress-bar.dev/50)
+  - R ![50%](https://progress-bar.dev/50)
 - learing some frameworks and libraries like:
   - ncurses for c
   - libGDX for java
   - .net for c#
 - fast typing
 - some languages like:
-  - persian 5/5
-  - english 4/5
-  - french 1/5
-  - arabic 1/5
+  - persian ![80%](https://progress-bar.dev/50)
+  - english ![75%](https://progress-bar.dev/50)
+  - french ![10%](https://progress-bar.dev/50)
+  - arabic ![10%](https://progress-bar.dev/50)
 
   
 These skills have been cultivated over the past years, and I am enthusiastic about applying them to real-world challenges.
