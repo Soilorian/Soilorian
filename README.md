@@ -1,67 +1,90 @@
-# About me
+# 👋 Hello! I'm Mahdi Ali Nejad
 
-Greetings 👋! I'm Mahdi, a passionate 19-year-old student currently pursuing my education at the Sharif University in Tehran, Iran.
+### 📍 Based in Karaj, Iran | 🌐 GitHub: [Soilorian](https://github.com/Soilorian) | 🔗 [LinkedIn](https://www.linkedin.com/in/mahdi-alinejad-ba97b6256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-## Background📁
+I'm a passionate Computer Engineering student at Sharif University of Technology, actively exploring new horizons in programming, artificial intelligence, and system design. With a strong foundation in both theoretical and applied aspects of computer science, I aspire to make meaningful contributions through innovative projects, research, and industry experiences.
 
-I hail from a dynamic family with two boys. My father's roots trace back to Shahrood, a city in Semnan, while my mother originates from Tehran. Our current abode is in the city of Karaj.
+---
 
+## 🎓 Education
 
-## Education👨‍🎓
+- **Bachelor's in Computer Engineering**  
+  *Sharif University of Technology* | 2022 - Present  
+  Specialized in computer science, ranked 67th in Iran's national university entrance exam.
+- **Gifted High School of Shahid Soltani 3**  
+  *Diploma in Mathematics* | 2019 - 2022
 
-Embarking on my academic journey, I find myself in the midst of the third semester, passionately immersed in the field of computer engineering at the Sharif University of Technology (SUT), the pinnacle of education in Iran. My high school years were spent at a specialized institution for gifted children.
+---
 
-## Job Experiences👨‍💼
+## 💼 Experience
 
-Navigating the professional landscape is a recent venture for me, with only a year and a half having elapsed since my entry into university life. As of now, my professional journey is in its nascent stage, and I am eager to accumulate valuable experiences in the near future.
+- **Back-End Developer** (Kotlin) - *Parvan Pajooh* | 2024 - Present  
+- **Remote Research Intern** - *Brock University, Canada* | 2024 - Present  
+  Working with Bayesian Networks.
+- **Research Assistant**  
+  - *HPCAN Lab* with Prof. Sarbazi-Azad  
+  - *CPS Lab* with Dr. Ansari  
+- **Teaching Assistant** | 2023 - Present  
+  Courses: Fundamentals of Programming, Linear Algebra, Advanced Programming, Probability & Statistics, and more.
 
-## Skills🎯
+---
 
-In the course of my educational endeavors, I've acquired a diverse set of skills, including but not limited to:
+## 🛠️ Technical Skills
 
-- learing coding languages like:
-  - c / c++ ![80%](https://progress-bar.dev/80)
-  - c# ![40%](https://progress-bar.dev/40)
-  - java ![90%](https://progress-bar.dev/90)
-  - python ![40%](https://progress-bar.dev/40)
-  - R ![50%](https://progress-bar.dev/50)
-- learing some frameworks and libraries like:
-  - ncurses for c
-  - libGDX for java
-  - .net for c#
-- fast typing
-- some languages like:
-  - persian ![80%](https://progress-bar.dev/80)
-  - english ![75%](https://progress-bar.dev/75)
-  - french ![10%](https://progress-bar.dev/10)
-  - arabic ![10%](https://progress-bar.dev/10)
+### Languages & Frameworks
+- **Programming Languages:**  
+  - Proficient: C/C++, Java, Kotlin  
+  - Intermediate: Python, C#, R, Go  
+  - Assembly: x86, s390x, CUDA, RISC-V
+- **Domain-Specific Languages:** Verilog, LaTeX, Markdown
+- **Frameworks & Libraries:** .NET, MySQL, LibGDX, scikit-learn, PyTorch, Tidyverse, OpenCV, Pandas, NumPy
+- **Tools:** Git, GitHub, Vim, Linux, Quartus, ModelSim, Proteus, Logisim
 
-  
-These skills have been cultivated over the past years, and I am enthusiastic about applying them to real-world challenges.
+### Software & Design Patterns
+- **Software Tools:** Arduino, R-Studio, Jetbrains Suite, Office
+- **Design Patterns:** MVC, Factory, Singleton
 
+---
 
+## 💡 Research & Interests
 
-## Passions and Interests🎮
+With a deep-seated curiosity for the inner workings of technology, I focus on:
+- **Fields:** Embedded Systems, Computer Architecture, IoT, Cyber-Physical Systems, AI, Robotics
+- **Key Research Areas:** Bayesian Networks, Optimization in Systems, Robotics, and Micro-controller Programming
 
-In the realm of my interests, I find joy and fulfillment in the following pursuits:
+---
 
--Gaming
--Baseball
--Coding
--Solving Puzzles
--Escape Room Challenges
--Watching Movies with Friends and Family
+## 🚀 Projects
 
-## Philosophy
+### Key Academic & Personal Projects
 
-My vision extends beyond the horizon of mere aspiration. I aspire to carve my path, envisaging the establishment of a gaming company. The core mission is to craft captivating games that not only entertain but also impart valuable educational experiences.
+- **Stronghold** - *Java, LibGDX*  
+  Developed a full-featured game replicating "Stronghold" as a team project (30k+ lines of code) with 2D and 3D graphics.
+- **AI Algorithm Vault** - *Python*  
+  Curated and implemented various AI algorithms, covering tree search, CSP solvers, Bayesian Networks, and HMM algorithms.
+- **Datapath Design** - *Quartus*  
+  Created processor datapaths for single-cycle and multi-cycle architectures, enhancing processor performance.
+- **High-Precision Arithmetic** - *Assembly (x86, s390x)*  
+  Engineered high-precision calculations for large integers and matrix operations.
+- **NLP and Vision Exploration** - *Python, OpenCV, scikit-learn*  
+  Applied Linear Algebra concepts in small projects focusing on NLP and computer vision.
 
-## Projects💻
+---
 
-- Atari - During my inaugural semester, I delved into the realms of nostalgia by recreating the classic Atari Breakout game using C and ncurses.
+## 🌱 Skills & Passions
 
-- Vim - As a culmination of my Fundamentals of Programming course, I undertook the creation of a text editor inspired by Vim. The project featured a range of functionalities, complete with a user-friendly interface.
+### Languages
+- **Persian** (Native), **English** (Professional), **French** & **Arabic** (Basic)
 
-- AA Game - In my second semester, I immersed myself in the world of game development, crafting the game "AA" using Java and LibGDX, a Java game development framework.
+### Other Interests
+- Gaming 🎮 | Baseball ⚾ | Puzzle Solving 🧩 | Escape Room Challenges 🚪 | Watching Movies with Friends 🍿
 
-- Stronghold - As the crowning achievement of my Advanced Programming course, my peers and I collaborated to bring the game "Stronghold" to life, utilizing Java and the powerful LibGDX game development framework.
+---
+
+## 🌍 Vision & Goals
+
+Driven by a vision to create immersive educational games, I aim to start my own gaming company one day. My goal is to design games that captivate players while imparting valuable skills and knowledge, blending entertainment with education.
+
+---
+
+Thanks for stopping by! Let's connect, collaborate, and build something amazing together.
