@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Mahdi Ali Nejad
 
-### 📍 Based in Karaj, Iran | 🌐 GitHub: [Soilorian](https://github.com/Soilorian) | 🔗 [LinkedIn](linkedin.com/in/mahdi-alinejad-ba97b6256)
+### 📍 Based in Karaj, Iran | 🌐 GitHub: [Soilorian](https://github.com/Soilorian) | 🔗 [LinkedIn](linkedin.com/in/mahdi-ali-nejad)
 
 I'm a Computer Engineering student at Sharif University of Technology, keeping up the hype by trying out new things.
 
